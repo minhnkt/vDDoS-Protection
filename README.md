@@ -7,7 +7,6 @@ vDDoS Proxy Protection
 
 Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 
-Homepage: http://vddos.voduy.com
 
 ----------
 
